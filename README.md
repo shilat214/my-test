@@ -1,4 +1,4 @@
-# QA Automation Classwork
+git add .# QA Automation Classwork
 
 This repository contains my classwork, exercises, and assignments from the **QA Automation** course.
 
